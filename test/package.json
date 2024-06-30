@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test con jezt",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Wilmer Lopez",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
